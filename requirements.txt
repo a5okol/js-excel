@@ -1,0 +1,10 @@
+webpack (import/exports)
+    Babel
+    Scss
+    Eslint (нужен для того, чтобы слидить за чистотой js кода и поддержк одного стиля)
+    2 Modes
+        - Dev
+          Dev Server, SourceMaps (исходные карты), Eslint, Not Minified JS & CSS
+        - Prod
+          Minfied Code
+Git
